@@ -5,7 +5,7 @@
 
 **Setup**
 
-* Create a `.env` file at root folder and enter your `MONGODB` url, `JWTSECRET` and `S3BUCKET`
+* Create a `.env` file at root folder and enter your `MONGODB` url, `JWTSECRET` and `S3BUCKET`. see `.env.sample`
 
 * Create your `S3BUCKET` in `localstack` using 
 ```
